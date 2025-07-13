@@ -14,7 +14,7 @@ En modulär bildslider som kan användas för kampanjer, gallerier eller storyte
 
 ## Exempel på användning
 
-```text
+```
 {% render 'ww_image-slider', slides: section.settings.slides %}
 ```
 
