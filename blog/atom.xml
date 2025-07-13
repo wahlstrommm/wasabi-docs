@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://wahlstrommm.github.io/wasabi-docs/blog</id>
+    <title>Wasabi docs Blog</title>
+    <updated>2025-07-13T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://wahlstrommm.github.io/wasabi-docs/blog"/>
+    <subtitle>Wasabi docs Blog</subtitle>
+    <icon>https://wahlstrommm.github.io/wasabi-docs/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[short Blog Post]]></title>
+        <id>https://wahlstrommm.github.io/wasabi-docs/blog/short-blog-post</id>
+        <link href="https://wahlstrommm.github.io/wasabi-docs/blog/short-blog-post"/>
+        <updated>2025-07-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Vi på Wasabi Web har tagit fram denna dokumentation för att skapa struktur, återanvändning och tydlighet i våra Shopify-projekt – både för utvecklare, projektledare och framtida teammedlemmar.]]></summary>
+        <content type="html"><![CDATA[<p>Vi på <strong>Wasabi Web</strong> har tagit fram denna dokumentation för att skapa <strong>struktur, återanvändning och tydlighet</strong> i våra Shopify-projekt – både för utvecklare, projektledare och framtida teammedlemmar.</p>
+<p>Målet? Effektivitet, skalbarhet och mindre "varför gjorde vi så där?"-moment 😄</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-varför-en-dokumentation">📁 Varför en dokumentation?<a href="https://wahlstrommm.github.io/wasabi-docs/blog/short-blog-post#-varf%C3%B6r-en-dokumentation" class="hash-link" aria-label="Direct link to 📁 Varför en dokumentation?" title="Direct link to 📁 Varför en dokumentation?">​</a></h2>
+<p>Under åren har vi samlat på oss många snippets, sektioner och arbetssätt. Nu har vi:</p>
+<ul>
+<li>📦 <strong>Modulära sektioner/snippets</strong> som går att återanvända i flera kundprojekt</li>
+<li>🧠 <strong>Namnkonventioner</strong> och strukturer för att snabbt förstå kod</li>
+<li>🔁 <strong>Versionshantering</strong> för smidiga uppdateringar av teman</li>
+<li>🧩 En samlad plats där teamet hittar svar, mallar och inspiration</li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="️-vad-hittar-du-här">🏗️ Vad hittar du här?<a href="https://wahlstrommm.github.io/wasabi-docs/blog/short-blog-post#%EF%B8%8F-vad-hittar-du-h%C3%A4r" class="hash-link" aria-label="Direct link to 🏗️ Vad hittar du här?" title="Direct link to 🏗️ Vad hittar du här?">​</a></h2>
+<p>📚 Du hittar dokumentation för:</p>
+<ul>
+<li>Hur du sätter upp ett projekt från grunden</li>
+<li>Kodexempel på vanliga sektioner och snippets</li>
+<li>Tips för deploy, felsökning och versionshantering</li>
+<li>Rekommendationer för teman, struktur och prestanda</li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="️-vad-händer-nu">✍️ Vad händer nu?<a href="https://wahlstrommm.github.io/wasabi-docs/blog/short-blog-post#%EF%B8%8F-vad-h%C3%A4nder-nu" class="hash-link" aria-label="Direct link to ✍️ Vad händer nu?" title="Direct link to ✍️ Vad händer nu?">​</a></h2>
+<p>Vi bygger på denna dokumentation löpande. Hittar du något som saknas eller borde förklaras bättre? Skicka en Slack till tech-teamet eller lägg till en sida själv!</p>
+<p>💡 Tips: Alla markdown-filer ligger i <code>docs/</code>, och du kan använda <code>npm run start</code> för att se dem lokalt.</p>
+<hr>
+<p>Välkommen in i ett mer modulärt och hållbart Shopify-arbete! 🚀</p>
+<p>/ Wasabi-teamet</p>]]></content>
+        <author>
+            <name>Magnus Vahlström</name>
+            <uri>https://linkedin.com/in/magnus-vahlstrom</uri>
+        </author>
+        <category label="Hello" term="Hello"/>
+        <category label="firstpost" term="firstpost"/>
+    </entry>
+</feed>

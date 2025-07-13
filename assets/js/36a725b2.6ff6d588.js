@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwasabi_docs=self.webpackChunkwasabi_docs||[]).push([[4475],{553:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/wasabi-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

@@ -1,8 +1,0 @@
-{
-  "label": "Kom igång",
-  "position": 1,
-  "link": {
-    "type": "generated-index",
-    "description": "En snabb introduktion till hur vi strukturerar och dokumenterar återanvändbara Shopify-snippets med hjälp av Docusaurus."
-  }
-}

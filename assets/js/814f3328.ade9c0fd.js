@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwasabi_docs=self.webpackChunkwasabi_docs||[]).push([[7472],{5513:s=>{s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"short Blog Post","permalink":"/wasabi-docs/blog/short-blog-post","unlisted":false,"date":"2025-07-13T00:00:00.000Z"}]}')}}]);

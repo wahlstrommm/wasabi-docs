@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwasabi_docs=self.webpackChunkwasabi_docs||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/wasabi-docs/blog","blogTitle":"Blog","authorsListPath":"/wasabi-docs/blog/authors"}')}}]);

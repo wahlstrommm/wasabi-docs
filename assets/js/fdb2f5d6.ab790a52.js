@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwasabi_docs=self.webpackChunkwasabi_docs||[]).push([[5940],{6138:s=>{s.exports=JSON.parse('{"tags":[{"label":"Hello","permalink":"/wasabi-docs/blog/tags/hello","description":"Hello tag description","count":1},{"label":"firstpost","permalink":"/wasabi-docs/blog/tags/firstpost","count":1}]}')}}]);
