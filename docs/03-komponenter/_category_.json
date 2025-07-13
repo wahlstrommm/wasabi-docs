@@ -1,0 +1,8 @@
+{
+  "label": "Komponenter",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Fristående komponenter byggda för återanvändning i sektioner och snippets, med dokumentation och kodexempel."
+  }
+}

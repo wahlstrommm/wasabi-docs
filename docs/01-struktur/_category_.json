@@ -1,0 +1,8 @@
+{
+  "label": "Struktur & Konventioner",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Hur vi organiserar filer, mappar, namnger snippets och säkerställer versionshantering i våra Shopify-projekt."
+  }
+}
