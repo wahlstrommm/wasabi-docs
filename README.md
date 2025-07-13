@@ -1,11 +1,11 @@
-# 🧩 Wasabi Web — Shopify Snippets Library
+# Wasabi Web — Shopify Snippets Library
 
 Welcome to the Wasabi Web central repository for reusable Shopify components.  
 This library is built to help our team and clients implement modular, consistent, and maintainable frontend features across Shopify themes.
 
 ---
 
-## 📦 What This Repo Contains
+## What This Repo Contains
 
 - ✅ **Reusable Liquid snippets**  
 - 📚 **Documentation per snippet**  
@@ -15,7 +15,7 @@ This library is built to help our team and clients implement modular, consistent
 
 ---
 
-## 🗂️ Structure
+## Structure
 
 ```bash
 wasabi-shopify-snippets/
@@ -33,7 +33,7 @@ wasabi-shopify-snippets/
 └── README.md
 ```
 ---
-## 📦 Using Snippets in Projects
+## Using Snippets in Projects
 
 1. Copy the snippet (e.g., ``` product-gallery-slider.liquid ```) to the Shopify theme's ``` snippets```/ folder.
 2. Render the snippet in the appropriate section or template:
@@ -49,7 +49,7 @@ wasabi-shopify-snippets/
 
 ---
 
-## 🧠 Naming Convention
+## Naming Convention
 
 
 
@@ -64,7 +64,7 @@ To keep components organized and easily traceable:
 > **Example:** `ab_custom_product-card.liquid` for client **A&B**
 
 
-🛠️ Guidelines for Adding New Snippets
+Guidelines for Adding New Snippets
 
    1.  Create a ```.liquid``` file in the correct ```snippets```/ subfolder.
 
@@ -112,7 +112,7 @@ This approach ensures:
 
 ---
 
-## 🚀 Getting Started with Docusaurus (Docs)
+## Getting Started with Docusaurus (Docs)
 
 ```bash
 npm install
@@ -123,7 +123,7 @@ Navigate to ```http://localhost:3000``` to preview the documentation site.
 Need help? Check ```/docs/README-EXAMPLE.md``` for how to document a snippet.
 ---
 
-## 🧪 Contributing
+## Contributing
 
 All contributions should follow the naming conventions and folder structure.
 

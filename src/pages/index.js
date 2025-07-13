@@ -12,11 +12,9 @@ function HomepageHeader() {
   return (
     <header className={clsx("hero hero--primary", styles.heroBanner)}>
       <div className="container">
-        <div className={styles.logos}>
-          <img src="/img/wasabiweb.se-black.svg" alt="Wasabi Web" className={styles.logo} />
-          <img src="/img/Shopify.png" alt="Shopify" className={styles.logo} />
-        </div>
-
+        <Heading as="h1" className="hero__title">
+          {siteConfig.title}
+        </Heading>
         <p className="hero__subtitle">En samlad plats för moduler, snippets & riktlinjer för Shopify – från Wasabi Web.</p>
         <div className={styles.buttons}>
           <Link className="button button--secondary button--lg" to="/docs/intro">
