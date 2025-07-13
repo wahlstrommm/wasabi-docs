@@ -18,8 +18,7 @@ Här har vi samlat användbara tips, verktyg och arbetssätt som förenklar utve
 
 För att undvika konflikter mellan teman, sektioner och appar:
 
-````markdown
-<pre> ``` {% render 'ww_button' %} ``` </pre>
+<pre> ```liquid {% render 'ww_button' %} ``` </pre>
 
 > Använd alltid `ww_` för globala komponenter. Vid kundanpassning, använd kundinitialer, t.ex. `sm_custom-slider`.
 
