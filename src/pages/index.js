@@ -15,6 +15,10 @@ function HomepageHeader() {
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
+        <div style={{ display: "flex", justifyContent: "center", gap: "1.5rem", marginBottom: "2rem" }}>
+          <img src="/img/wasabiweb.svg" alt="Wasabi Web" height="40" />
+          <img src="/img/shopify.png" alt="Shopify" height="40" />
+        </div>
         <p className="hero__subtitle">En samlad plats för moduler, snippets & riktlinjer för Shopify – från Wasabi Web.</p>
         <div className={styles.buttons}>
           <Link className="button button--secondary button--lg" to="/docs/intro">
