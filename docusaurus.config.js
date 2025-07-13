@@ -29,7 +29,6 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "wahlstrommm", // Usually your GitHub org/user name.
   projectName: "wasabi-docs", // Usually your repo name.
-  useSSH: true,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
 
