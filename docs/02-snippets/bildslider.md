@@ -6,13 +6,13 @@ sidebar_position: 6
 
 En modulär bildslider som kan användas för kampanjer, gallerier eller storytelling-sektioner. Byggd för att vara flexibel, tillgänglig och lätt att anpassa.
 
-## 🧠 Funktionalitet
+## Funktionalitet
 
 - Loopar igenom ett antal slides (bild + text)
 - Anpassningsbar: stöd för länk, CTA-knapp och alt-text
 - Mobilanpassad (kan kombineras med swiper.js eller native scroll)
 
-## ✅ Exempel på användning
+## Exempel på användning
 
 ```liquid
 {% render 'ww_image-slider', slides: section.settings.slides %}
